@@ -2,7 +2,8 @@
 
 # SmartResume AI — Real-Time Resume Builder & ATS Analyzer
 
-SmartResume AI is a full-stack web application that helps users create professional resumes, analyze their resumes for Applicant Tracking System (ATS) compatibility, and improve their chances of getting shortlisted. The application provides a real-time resume preview, resume management, and PDF downloads through a user-friendly interface.
+      SmartResume AI is a full-stack web application that helps users create professional resumes, analyze their resumes for Applicant Tracking System (ATS) compatibility, and improve their chances of getting shortlisted.
+      The application provides a real-time resume preview, resume management, and PDF downloads through a user-friendly interface.
 
 ## Features
 
