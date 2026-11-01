@@ -149,7 +149,7 @@ Frontend URL: Check the local URL displayed in your terminal, usually `http://lo
 
 ## Learning Outcomes
 
-This project demonstrates practical knowledge of full-stack web development, React.js, Python, Django REST APIs, database integration, user authentication, RESTful communication, and document generation.
+-> This project demonstrates practical knowledge of full-stack web development, React.js, Python, Django REST APIs, database integration, user authentication, RESTful communication, and document generation.
 
 ## Project Status
 
@@ -157,8 +157,8 @@ This project demonstrates practical knowledge of full-stack web development, Rea
 
 ## Author
 
-Developed as a full-stack portfolio project to demonstrate frontend development, backend API development, database management, and resume optimization concepts.
+-> Developed as a full-stack portfolio project to demonstrate frontend development, backend API development, database management, and resume optimization concepts.
 
 ## License
 
-This project is intended for educational and portfolio purposes. A license can be added when the project is published.
+-> This project is intended for educational and portfolio purposes. A license can be added when the project is published.
